@@ -1,2 +1,0 @@
-# Vicky
-Pagina web
